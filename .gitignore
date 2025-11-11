@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Sensitive files (session data, cookies, etc.)
+qoj_session.json
+*.session
+*.cookie
+
+# Output files
+submission_results.txt
+output.html
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
